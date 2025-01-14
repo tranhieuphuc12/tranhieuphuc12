@@ -22,6 +22,9 @@ Feel free to check out my repositories for projects ranging from front-end devel
 <a href="https://github.com/khang3999/RunTrail">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khang3999&repo=RunTrail&theme=merko" />
 </a>
+<a href="https://github.com/tranhieuphuc12/SwiftUIFirebaseChat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tranhieuphuc12&repo=SwiftUIFirebaseChat&theme=merko" />
+</a>
 
 
 ---
