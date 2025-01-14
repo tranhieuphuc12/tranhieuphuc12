@@ -1,6 +1,6 @@
 ### WELCOME TO MY GITHUB PROFILE 👋👋👋
 
-Hello, I'm [Your Name]! I'm a Software Engineering student passionate about building innovative solutions and exploring new technologies. My main interests include:  
+Hello, I'm Tran Phuc! I'm a Software Engineering student passionate about building innovative solutions and exploring new technologies. My main interests include:  
 - **Mobile App Development** (React Native, Android, IOS)  
 - **Web Development** (React, Node.js, Spring Boot)  
 - **Data Structures and Algorithms**  
@@ -23,7 +23,7 @@ Feel free to check out my repositories for projects ranging from front-end devel
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khang3999&repo=RunTrail&theme=merko" />
 </a>
 <a href="https://github.com/tranhieuphuc12/SwiftUIFirebaseChat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tranhieuphuc12&repo=SwiftUIFirebaseChat&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tranhieuphuc12&repo=SwiftUIFirebaseChat&theme=radical" />
 </a>
 
 
