@@ -25,6 +25,12 @@ Feel free to check out my repositories for projects ranging from front-end devel
 <a href="https://github.com/tranhieuphuc12/SwiftUIFirebaseChat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tranhieuphuc12&repo=SwiftUIFirebaseChat&theme=radical" />
 </a>
+<a href="https://github.com/tranhieuphuc12/FullstackNodejsIOS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tranhieuphuc12&repo=FullstackNodejsIOS&theme=radical" />
+</a>
+<a href="https://github.com/tranhieuphuc12/MyJournalIOS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tranhieuphuc12&repo=MyJournalIOS&theme=radical" />
+</a>
 
 
 ---
